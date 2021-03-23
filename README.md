@@ -12,3 +12,13 @@ Task 2 : Prediction-using-Unsupervised-ML
 Task : From the given 'IRIS' dataset predict the optimal number of clusters and represents it visually
 
 Data set : https://bit.ly/3kXTdox
+
+Task 3 : Exploratory Data Analysis Retail-SuperStore The task is :
+
+(i) As a business manager, try to find out the weak areas where you can work to make more profit.
+
+(ii) What all business problems you can derive by exploring the data?
+
+(iii) Dash Boards - explaining the charts and interpretations.
+
+
